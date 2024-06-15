@@ -1,5 +1,5 @@
 TUGAS AKHIR PENGEMBANGAN APLIKASI MOBILE | 
-IMPLEMENTASI RECYCLERVIEW, COMPOSE, AUTENTIKASI, UPLOAD-DOWNLOAD GAMBAR, DAN CRUD MENGGUNAKAN REALTIME DATABASE FIREBASE PADA APLIKASI PLANTNET
+Implementasi RecyclerView, Compose, Autentikasi, Upload-Download Gambar, dan CRUD Menggunakan Realtime Database Firebase pada Aplikasi PlanNet
 
 Disusun oleh:
 Kelompok 7 (PAM-D)
